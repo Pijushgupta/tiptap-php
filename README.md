@@ -223,7 +223,7 @@ By default, the [`StarterKit`](https://tiptap.dev/api/extensions/starter-kit) is
 new Tiptap\Editor([
     'extensions' => [
         new Tiptap\Extensions\StarterKit,
-        new Tiptap\Nodes\Link,
+        new Tiptap\Marks\Link,
     ],
 ])
 ```
